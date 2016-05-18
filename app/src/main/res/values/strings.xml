@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PhoneHousekeeper</string>
+
+    <!-- Lead页面 -->
+    <string name="lead_skiptext">直接跳过</string>
+    <string name="leadimage_description">引导页面图像</string>
+    <string name="leadtext_description1">小图标1</string>
+    <string name="leadtext_description2">小图标2</string>
+    <string name="leadtext_description3">小图标3</string>
+
+    <!-- home -->
+    <string name="about">关于我们</string>
+    <string name="setting">设置</string>
+    <string name="rocket">手机加速</string>
+    <string name="softmgr">软件管理</string>
+    <string name="phonemgr">手机检测</string>
+    <string name="telmgr">通讯大全</string>
+    <string name="filemgr">文件管理</string>
+    <string name="sdclean">垃圾清理</string>
+
+</resources>
